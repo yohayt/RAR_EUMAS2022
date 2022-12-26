@@ -1,0 +1,3 @@
+Processed files for the PassVac dataset. 
+Dataset is available under the Creative Commons license, adopted from the paper 
+"Dataset on a problem of assigning activities to children, with various optimization constraints", Data in Brief, Volume 25, 2019.
